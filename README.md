@@ -18,10 +18,8 @@ Developing a strong and versatile portfolio, demonstrating my ability to use the
 
 
 ### Skills
-
-
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a 
+![Image](https://github.com/user-attachments/assets/7ddf6800-4dd3-4081-a7fb-992ed88166f2) 
+<p align="left"><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img  src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a 
 [alt text](https://github.com/user-attachments/assets/8a624220-6abe-465e-bd9e-207c8c7b8443)
 
 </p>
