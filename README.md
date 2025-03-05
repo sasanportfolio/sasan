@@ -6,9 +6,9 @@ My Portfolio
 
 I'm a recent graduate of a Data Technician Skills Bootcamp as well as a Bsc in Economics and Finance and I am looking to secure a role within the data industry.
 
-* 🌍  I'm based in North West London
+* 🌍  I am based in North West London
 * ✉️  Contact me on my [LinkedIn Profile](http://www.linkedin.com/in/sasanhurey) 
-* 🧠  I'm learning Data Analysis skills which include Excel, Tableau, Power BI, SQL and Python
+* 🧠  I am learning Data Analysis skills which include Excel, Tableau, Power BI, SQL and Python
 * Economics and Finance graduate with a deep-rooted passion for finance and data analysis, eager to apply analytical skills in the ever-evolving field of data science.
 * Throughout my university studies, I developed a solid understanding of quantitative and qualitative analytical techniques, enhancing my ability to analyse complex datasets and provide actionable insights.
 Gained valuable experience in diverse industries, including Accounting and Customer Service, which allowed me to strengthen my collaboration, communication, and problem-solving abilities, both independently and within a team environment.
