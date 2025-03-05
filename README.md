@@ -1,11 +1,10 @@
-# Sasan Hurey
+# Sasan Hurey 
 
 
-My Portfolio
-------------
 
-I'm a recent graduate of a Data Technician Skills Bootcamp as well as a Bsc in Economics and Finance and I am looking to secure a role within the data industry.
 
+
+## My Portfolio <img align="right" width="150" alt="Image" src="https://github.com/user-attachments/assets/a6b83898-ce51-4a72-bff4-f322d35b7c3f" />   
 * 🌍  I am based in North West London
 * ✉️  Contact me on my [LinkedIn Profile](http://www.linkedin.com/in/sasanhurey) 
 * 🧠  I am learning Data Analysis skills which include Excel, Tableau, Power BI, SQL and Python
