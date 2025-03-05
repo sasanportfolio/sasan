@@ -1,14 +1,15 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sasan Hurey
-===================================================================================================================================
+Sasan Hurey
+
 
 My Portfolio
 ------------
 
 I'm a recent graduate of a Data Technician Skills Bootcamp as well as a Bsc in Economics and Finance and I am looking to secure a role within the data industry.
 
-* 🌍  I'm based in United Kingdom
-* 🧠  I'm learning Python
-* 🤝  I'm open to collaborating on N/A
+* 🌍  I'm based in North West London
+* ✉️  Contact me on my [LinkedIn Profile](http://www.linkedin.com/in/sasanhurey) 
+* 🧠  I'm learning Data Analysis skills which include Excel, Tableau, Power BI, SQL and Python
+
 
 ### Skills
 
